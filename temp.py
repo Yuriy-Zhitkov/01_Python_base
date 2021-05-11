@@ -1,14 +1,9 @@
-a = dict(k= [1,2,3], l= [])
+a, b, c = [1, 2, 3]
 
 print(a)
 
-for itm in a.items():
-    a[itm[0]] = itm[1].append(999)
-    print(itm[0])
-    print(itm[1])
+range(10)
 
+# g = memoryview(a)
 
-
-
-print(a)
-
+help(memoryview)
