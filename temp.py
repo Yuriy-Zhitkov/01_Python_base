@@ -1,9 +1,10 @@
-a, b, c = [1, 2, 3]
+a = []
 
-print(a)
+if 1 in a or len(a) != 0:
+    print('1 or ""')
 
-range(10)
 
-# g = memoryview(a)
+if len(a) == 0:
+    print('""')
 
-help(memoryview)
+
