@@ -1,10 +1,4 @@
-a = []
+my_dict = {el: el * 2 for el in range(10, 20)}
+print(my_dict)
 
-if 1 in a or len(a) != 0:
-    print('1 or ""')
-
-
-if len(a) == 0:
-    print('""')
-
-
+import 
