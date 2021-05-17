@@ -1,4 +1,6 @@
-my_dict = {el: el * 2 for el in range(10, 20)}
-print(my_dict)
+import itertools as it
 
-import 
+# my_list = [print(i) for i in range(100) if i <= 10]
+my_list = [print(i) for i in it.count(100) if i <= 10]
+
+

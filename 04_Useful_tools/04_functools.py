@@ -5,7 +5,7 @@ def my_func(el, next_el):
     '''
     :param el: текущий элемент
     :param next_el: следующий элемент
-    :return: элемент
+    :return: сумма элементов
     '''
     return el + next_el
 
