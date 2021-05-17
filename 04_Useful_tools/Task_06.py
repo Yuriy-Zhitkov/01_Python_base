@@ -30,7 +30,7 @@ my_list = [1,2,3,4]
 def iter_b(data, stop):
     i = 0
     for el in it.cycle(data):
-        if i > stop: # если использовать "i > stop * (len(data)-1)", то список будет копироваться указанное кол-во раз
+        if i > stop-1: # если использовать "i > stop * (len(data)-1)", то список будет копироваться указанное кол-во раз
             break
         else:
             i += 1

@@ -20,10 +20,18 @@ Tom_work = {'jun': {'hours': 168, 'payment': 3000, 'premium': 20000},
             'march': {'hours': 168, 'payment': 3000, 'premium': 20000}
             }
 
+# вариант №1
 # расчет заработной платы на каждый месяц
 Tom_salary = []
 for key in Tom_work:
     Tom_salary.append(slr(Tom_work[key]['hours'], Tom_work[key]['payment'], Tom_work[key]['premium']))
 print(Tom_salary)
+
+
+# вариант №2
+Tom_salary_2 = [slr(Tom_work[key]['hours'], Tom_work[key]['payment'], Tom_work[key]['premium']) for key in Tom_work]
+print(Tom_salary_2)
+
+
 
 
