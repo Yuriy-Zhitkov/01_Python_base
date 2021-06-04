@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/06_OOP" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -41,7 +41,29 @@
       <recent name="$PROJECT_DIR$/05_Files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_03">
+  <component name="RunManager" selected="Python.Task_01">
+    <configuration name="HW8_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01_Python_base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP/HW8_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Task_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="01_Python_base" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,12 +72,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP/Task_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP/Task_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_04-06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="01_Python_base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,34 +94,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP/Task_02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="01_Python_base" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP/Task_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP/Task_04-06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,12 +116,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_OOP/Task_05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP/Task_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="01_Python_base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,12 +138,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP/Task_07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_03" />
-        <item itemvalue="Python.temp" />
-        <item itemvalue="Python.Task_02" />
         <item itemvalue="Python.Task_01" />
+        <item itemvalue="Python.Task_07" />
+        <item itemvalue="Python.Task_04-06" />
         <item itemvalue="Python.Task_05" />
+        <item itemvalue="Python.HW8_5" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +194,10 @@
       <workItem from="1621533519914" duration="1541000" />
       <workItem from="1621624816633" duration="22838000" />
       <workItem from="1621878636163" duration="14155000" />
-      <workItem from="1622029640837" duration="5037000" />
+      <workItem from="1622029640837" duration="17289000" />
+      <workItem from="1622400012793" duration="10964000" />
+      <workItem from="1622471394215" duration="8437000" />
+      <workItem from="1622520918999" duration="20014000" />
     </task>
     <servers />
   </component>
@@ -228,27 +231,38 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/01_Python_base$02_random.coverage" NAME="02_random Coverage Results" MODIFIED="1621494205389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Useful_tools" />
     <SUITE FILE_PATH="coverage/01_Python_base$Task_011.coverage" NAME="Task_011 Coverage Results" MODIFIED="1621671586141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_OOP" />
-    <SUITE FILE_PATH="coverage/01_Python_base$Task_06.coverage" NAME="Task_06 Coverage Results" MODIFIED="1621518111602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Files" />
+    <SUITE FILE_PATH="coverage/01_Python_base$create_iterator_02.coverage" NAME="create_iterator_02 Coverage Results" MODIFIED="1622271237581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$Task_06.coverage" NAME="Task_06 Coverage Results" MODIFIED="1622754953784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
     <SUITE FILE_PATH="coverage/01_Python_base$lesson_01.coverage" NAME="lesson_01 Coverage Results" MODIFIED="1621709392287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_OOP" />
-    <SUITE FILE_PATH="coverage/01_Python_base$04_functools.coverage" NAME="04_functools Coverage Results" MODIFIED="1621198318937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Useful_tools" />
-    <SUITE FILE_PATH="coverage/01_Python_base$03_yield.coverage" NAME="03_yield Coverage Results" MODIFIED="1621149592706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Useful_tools" />
-    <SUITE FILE_PATH="coverage/01_Python_base$Task_05.coverage" NAME="Task_05 Coverage Results" MODIFIED="1621754239638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_OOP" />
     <SUITE FILE_PATH="coverage/01_Python_base$Time_test.coverage" NAME="Time_test Coverage Results" MODIFIED="1620032469095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01_Python_base$01_open_br.coverage" NAME="01_open_br Coverage Results" MODIFIED="1621449379427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Files" />
     <SUITE FILE_PATH="coverage/01_Python_base$01_gen.coverage" NAME="01_gen Coverage Results" MODIFIED="1621144923769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Useful_tools" />
-    <SUITE FILE_PATH="coverage/01_Python_base$Task_01.coverage" NAME="Task_01 Coverage Results" MODIFIED="1622016292095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_OOP" />
-    <SUITE FILE_PATH="coverage/01_Python_base$Test_02.coverage" NAME="Test_02 Coverage Results" MODIFIED="1620134825711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../00.01 Основы языка Phyton/04" />
-    <SUITE FILE_PATH="coverage/01_Python_base$01_open.coverage" NAME="01_open_r Coverage Results" MODIFIED="1621411890928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Files" />
-    <SUITE FILE_PATH="coverage/01_Python_base$Task_04.coverage" NAME="Task_04 Coverage Results" MODIFIED="1621753294869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_OOP" />
-    <SUITE FILE_PATH="coverage/01_Python_base$Task_07.coverage" NAME="Task_07 Coverage Results" MODIFIED="1621521038833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Files" />
+    <SUITE FILE_PATH="coverage/01_Python_base$03_OOP_programm.coverage" NAME="03_OOP_programm Coverage Results" MODIFIED="1622440144272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$02_classmethod.coverage" NAME="02_classmethod Coverage Results" MODIFIED="1622482981710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$HW8_5.coverage" NAME="HW8_5 Coverage Results" MODIFIED="1622753408357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
     <SUITE FILE_PATH="coverage/01_Python_base$01_Type.coverage" NAME="01_Type Coverage Results" MODIFIED="1620063279904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Types_and_operations" />
     <SUITE FILE_PATH="coverage/01_Python_base$Task_05_01.coverage" NAME="Task_05.01 Coverage Results" MODIFIED="1620502642653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Types_and_operations" />
     <SUITE FILE_PATH="coverage/01_Python_base$Task_02__1_.coverage" NAME="Task_02 (1) Coverage Results" MODIFIED="1620368918949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../01_Python_basee/01_Welcome_Python" />
     <SUITE FILE_PATH="coverage/01_Python_base$script.coverage" NAME="script Coverage Results" MODIFIED="1620632996697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01_Python_base$Task_02.coverage" NAME="Task_02 Coverage Results" MODIFIED="1622021317567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_OOP" />
-    <SUITE FILE_PATH="coverage/01_Python_base$temp.coverage" NAME="temp Coverage Results" MODIFIED="1622042324673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01_Python_base$Task_03.coverage" NAME="Task_03 Coverage Results" MODIFIED="1622042655403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_OOP" />
-    <SUITE FILE_PATH="coverage/01_Python_base$05_itertools.coverage" NAME="05_itertools Coverage Results" MODIFIED="1621239047699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Useful_tools" />
+    <SUITE FILE_PATH="coverage/01_Python_base$Task_03.coverage" NAME="Task_03 Coverage Results" MODIFIED="1622525664137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
     <SUITE FILE_PATH="coverage/01_Python_base$Task_01__1_.coverage" NAME="Task_01 (1) Coverage Results" MODIFIED="1620710414562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Function" />
+    <SUITE FILE_PATH="coverage/01_Python_base$how_to_for_working.coverage" NAME="how_to_for_working Coverage Results" MODIFIED="1622265356767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$04_functools.coverage" NAME="04_functools Coverage Results" MODIFIED="1621198318937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Useful_tools" />
+    <SUITE FILE_PATH="coverage/01_Python_base$03_yield.coverage" NAME="03_yield Coverage Results" MODIFIED="1621149592706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Useful_tools" />
+    <SUITE FILE_PATH="coverage/01_Python_base$setter.coverage" NAME="setter Coverage Results" MODIFIED="1622280277706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$Task_05.coverage" NAME="Task_05 Coverage Results" MODIFIED="1622754341156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$01_open_br.coverage" NAME="01_open_br Coverage Results" MODIFIED="1622047096675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Files" />
+    <SUITE FILE_PATH="coverage/01_Python_base$01.coverage" NAME="01_staticmethod Coverage Results" MODIFIED="1622277218160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$01_staticmethod.coverage" NAME="01_staticmethod Coverage Results" MODIFIED="1622661450214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$Task_01.coverage" NAME="Task_01 Coverage Results" MODIFIED="1622784244429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$Test_02.coverage" NAME="Test_02 Coverage Results" MODIFIED="1620134825711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../00.01 Основы языка Phyton/04" />
+    <SUITE FILE_PATH="coverage/01_Python_base$01_open.coverage" NAME="01_open_r Coverage Results" MODIFIED="1621411890928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Files" />
+    <SUITE FILE_PATH="coverage/01_Python_base$Task_04.coverage" NAME="Task_04 Coverage Results" MODIFIED="1622529567937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$04_Error.coverage" NAME="04_Error Coverage Results" MODIFIED="1622445713835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$Task_07.coverage" NAME="Task_07 Coverage Results" MODIFIED="1622783960438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$05_my_error.coverage" NAME="05_my_error Coverage Results" MODIFIED="1622490021073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$create_iterator.coverage" NAME="create_iterator_01 Coverage Results" MODIFIED="1622267289156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$Task_02.coverage" NAME="Task_02 Coverage Results" MODIFIED="1622521363655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_OOP" />
+    <SUITE FILE_PATH="coverage/01_Python_base$temp.coverage" NAME="temp Coverage Results" MODIFIED="1622666435275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_Python_base$05_itertools.coverage" NAME="05_itertools Coverage Results" MODIFIED="1621239047699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Useful_tools" />
   </component>
 </project>
